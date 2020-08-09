@@ -1,6 +1,6 @@
 {
   "name": "cloudmersive-dataintegration-api-client",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Easily_and_directly_query_database_backup_files_convert_into_other_file_formats_",
   "license": "Unlicense",
   "main": "src/index.js",

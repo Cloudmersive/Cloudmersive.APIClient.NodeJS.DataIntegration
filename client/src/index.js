@@ -1,5 +1,5 @@
 /**
- * Data Integration API
+ * dataintegrationapi
  * Easily and directly query database backup files, convert into other file formats.
  *
  * OpenAPI spec version: v1
@@ -53,7 +53,7 @@
    * </pre>
    * </p>
    * @module index
-   * @version 2.0.1
+   * @version 2.0.2
    */
   var exports = {
     /**

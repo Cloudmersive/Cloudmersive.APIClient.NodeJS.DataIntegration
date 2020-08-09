@@ -1,5 +1,5 @@
 /**
- * Data Integration API
+ * dataintegrationapi
  * Easily and directly query database backup files, convert into other file formats.
  *
  * OpenAPI spec version: v1
@@ -36,7 +36,7 @@
   /**
    * The MssqlBakEnumerateTablesResult model module.
    * @module model/MssqlBakEnumerateTablesResult
-   * @version 2.0.1
+   * @version 2.0.2
    */
 
   /**
