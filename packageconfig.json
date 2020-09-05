@@ -1,5 +1,6 @@
 ﻿{
 
   "projectName" : "cloudmersive-dataintegration-api-client",
-  "projectVersion": "2.0.2"
+  "projectVersion": "2.0.3",
+  "licenseName": "Apache-2.0"
 }  
